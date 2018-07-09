@@ -1,0 +1,15 @@
+# Intellij
+
+*.iml
+*.iws
+.idea/*
+/out/
+
+# Maven
+log/
+target/
+
+
+# VCS
+*.log
+
